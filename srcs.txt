@@ -1,0 +1,23 @@
+https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/
+
+https://www.youtube.com/watch?v=RnpSaDSSjR4
+
+http://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/
+
+https://www.supinfo.com/articles/single/4843-adresses-ip-privees-publiques
+
+https://www.geeksforgeeks.org/differences-between-tcp-and-udp/
+
+https://www.geeksforgeeks.org/what-is-local-host/
+
+http://video.cs50.net/2017/fall/lectures/6
+
+https://www.youtube.com/embed/04GztBlVo_s?autoplay=1&rel=0 Internet Primer
+https://www.youtube.com/embed/A1g9SokDJSU?autoplay=1&rel=0 IP
+https://www.youtube.com/embed/GP7uvI_6uas?autoplay=1&rel=0 TCP
+https://www.youtube.com/embed/4axL8Gfw2nI?autoplay=1&rel=0 HTTP
+https://www.youtube.com/embed/YK78KhMf7bs?autoplay=1&rel=0 HTML
+https://www.youtube.com/embed/Ub3FKU21ubk?autoplay=1&rel=0 CSS
+
+https://openclassrooms.com/fr/courses/857447-apprenez-le-fonctionnement-des-reseaux-tcp-ip
+
